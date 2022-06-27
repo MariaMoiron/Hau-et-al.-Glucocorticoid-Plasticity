@@ -1,6 +1,7 @@
 This repository contains R-codes used for a project on glucocorticoid plasticity using data from a free-living great tit population. Specifically, the repository contains R-codes used in the following study:
 
-Hau M, Deimel C, Moiron M (2022) Great tits differ in glucocorticoid plasticity in response to spring temperature.BioRxiv (doi: 10.1101/2022.04.21.489013) )link: https://www.biorxiv.org/content/10.1101/2022.04.21.489013v1)
+Hau M, Deimel C, Moiron M (2022) Great tits differ in glucocorticoid plasticity in response to spring temperature.BioRxiv (doi: 10.1101/2022.04.21.489013)
+Link to paper: https://www.biorxiv.org/content/10.1101/2022.04.21.489013v1
 
 For any further information, please get in touch with at least one (preferably both) of the following researchers:
 Dr. Maria Moiron, email: mariamoironc@gmail.com
